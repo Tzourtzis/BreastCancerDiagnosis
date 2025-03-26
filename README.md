@@ -88,13 +88,4 @@ February 2025
 
 ---
 
-## 🔗 References
-
-- Scikit-learn Documentation: https://scikit-learn.org
-- UCI ML Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
-- WHO Breast Cancer Stats 2020
-- Technical Report (see PDF in repo)
-
----
-
 Feel free to fork, explore, and run the notebooks to replicate or extend our experiments 🌐
